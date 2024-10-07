@@ -43,3 +43,7 @@ footer {
 h1 {
     text-align: center;
 }
+
+.active {
+    color: aqua;
+}
